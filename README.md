@@ -43,21 +43,7 @@ Feel free to explore the folders – each notebook is **self‑contained**, incl
    ```
    Open any `.ipynb` file and start experimenting.
 
----
 
-## 🌟 GitHub Profile Boost
-
-- **Badges**: Show off the progress of this learning journey.
-  
-  ```markdown
-  ![GitHub Repo stars](https://img.shields.io/github/stars/sakshamVerma08/ml-practice?style=flat-square)
-  ![GitHub forks](https://img.shields.io/github/forks/sakshamVerma08/ml-practice?style=flat-square)
-  ![License](https://img.shields.io/github/license/sakshamVerma08/ml-practice?style=flat-square)
-  ```
-- **Pinned README**: This README is displayed on the repo front page, giving visitors a clear snapshot of the learning path.
-- **Interactive Notebooks**: Click the **Open in Colab** badge (if you add a `requirements.txt` and enable Binder) to let others run the notebooks without any setup.
-
----
 
 ## 📈 Progress Tracker
 
